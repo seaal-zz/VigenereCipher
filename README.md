@@ -3,6 +3,7 @@
 This is a program that can encrypt and decrypt messages with given keys using the Vigenere Method.
 
 Author: Tyler "Seaal" Cox
+
 Date Published: 14 Dec 2022
 
 Instructions:
